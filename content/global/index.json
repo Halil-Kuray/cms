@@ -1,11 +1,10 @@
 {
   "header": {
     "icon": {
-      "name": "Tina",
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "Proxeus",
     "color": "default",
     "nav": [
       {

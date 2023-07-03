@@ -1,22 +1,19 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Welcome to the Tina Starter
+  - headline: Your data. Your blockchain. Your business.
     text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+      Open source form builder, workflow designer, and document validation.
+      Designed in Switzerland, supported globally.
     actions:
-      - label: Get Started
-        type: button
-        icon: true
-        link: /posts
-      - label: Read Blog
+      - label: Get Support
         type: link
+        icon: true
+        link: 'mailto:info@proxeus.org'
+      - label: Demo
+        type: button
         icon: false
-        link: /posts
+        link: 'https://morrison.proxeus.org'
     image:
       src: /uploads/unsplash-75EFpyXu3Wg.jpg
       alt: >-
@@ -27,35 +24,43 @@ blocks:
   - items:
       - icon:
           name: BiCodeBlock
-          color: red
+          color: blue
           style: float
-        title: Amazing Feature
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+        title: Developers
+        text: Build your Dapps through an innovative workflow tool.
       - icon:
-          name: BiLike
-          color: primary
+          name: BiCloud
+          color: blue
           style: float
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        title: Governance
+        text: Participate and gain benefits as we further our mission.
       - icon:
-          name: BiPalette
-          color: green
+          name: BiUserCircle
+          color: blue
           style: float
-        title: Configurable Theme
-        text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
+        title: Users
+        text: Certify documents or track goods across supply chains.
     color: tint
     _template: features
   - quote: >-
-      There are only two hard things in Computer Science: cache invalidation and
-      naming things.
-    author: Phil Karlton
+      "Proxeus is a platform for quick and convenient document digitalization,
+      signing, processing, and distribution. It allows users to keep their
+      important documents secure and registered on the blockchain. Proxeus
+      empowers anyone to create blockchain applications and is available for
+      free as an open-source project."
+    author: S-Pro software developers & IT consultants
     color: primary
     _template: testimonial
 ---
+
+
+
+
+
+
+
+
+
 
 
 
